@@ -8,10 +8,10 @@ For use currently:
 
 Example input files are provided. Here are the names with the accomanying lines for the user_input.py script:
 
-topFD (line 11): 2021_0817_Brain_1_frac.mzrt
-raw_converter (line 12): Brain_1_untarget_ms2_output_list
-db (line 13): Database
-SHS_results (line 14): Brain_SHS
-ion_list (line 15): Ion_Lists
+1. topFD (line 11): 2021_0817_Brain_1_frac.mzrt
+2. raw_converter (line 12): Brain_1_untarget_ms2_output_list
+3. db (line 13): Database
+4. SHS_results (line 14): Brain_SHS
+5. ion_list (line 15): Ion_Lists
 
 *An ion list is required to be generated for each database sequence, once it is detected within the accurate mass matching
